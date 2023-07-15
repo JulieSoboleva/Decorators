@@ -1,0 +1,8 @@
+2023-07-15 21:01:58,003 INFO Function hello_world with arguments () and {}
+2023-07-15 21:01:58,003 INFO Result: Hello World
+2023-07-15 21:01:58,003 INFO Function summator with arguments (2, 2) and {}
+2023-07-15 21:01:58,003 INFO Result: 4
+2023-07-15 21:01:58,003 INFO Function div with arguments (6, 2) and {}
+2023-07-15 21:01:58,003 INFO Result: 3.0
+2023-07-15 21:01:58,003 INFO Function summator with arguments (4.3,) and {'b': 2.2}
+2023-07-15 21:01:58,003 INFO Result: 6.5
